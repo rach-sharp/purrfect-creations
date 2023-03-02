@@ -1,0 +1,3 @@
+Flask==2.2.3
+# I would pin the dependencies of dependencies too with more time
+airtable==0.4.8
